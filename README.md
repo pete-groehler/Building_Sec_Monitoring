@@ -7,3 +7,6 @@ Activities:
 - Research and implement Splunk "Add-On" Applications to assist with monitoring possible attack vectors.
 - Create customized Splunk dashboard to assist in continuous monitoring.
 - Evaluate normal activity logs versus "attack logs" to determine effectiveness of alerts/baselining.
+
+View the video presentation: https://drive.google.com/file/d/1_4Ty2rwlv2HymHT2x9qDPDkERRCTR_Eg/view?usp=sharing
+
